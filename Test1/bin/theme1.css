@@ -1,0 +1,6 @@
+.root {
+	-fx-background-color: azure; 
+	/* above color background not hooking up properly
+	 * possibly due to file placement of the .css file*/
+	-fx-font-size: 11pt;	
+}
